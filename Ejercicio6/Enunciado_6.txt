@@ -5,5 +5,5 @@ Dins la mateixa pàgina web, dins d'una "section"afegeix:
     una altra de diferent"
     ● i una imatge (la que vulguis).
 
-Després amb una funció Javascrip, amb l'esdeveniment «onmouseover», la imatge
+Després amb una funció Javascript, amb l'esdeveniment «onmouseover», la imatge
 original ha de ser reemplaçada per una altra, i després amb l'esdeveniment «onmouseout», torni a veure-se la imatge original.
