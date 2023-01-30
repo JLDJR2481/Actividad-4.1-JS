@@ -8,5 +8,6 @@ elements dins del «header». Crear un CSS amb una classe anomenada "mostrar"
     grandaria de 1,5rem.
     
 Després, afegir una funció js que permeti afegir la classe "mostrar" a la llista.
+
 Aquesta funció es cridarà mitjançant l'esdeveniment "onclick" que també es llançarà
 mitjançant un botó.
