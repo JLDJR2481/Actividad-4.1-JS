@@ -9,8 +9,8 @@
     <title>Ejercicio 10</title>
   </head>
   <body>
-    <fieldset>
-      <form style="text-align: center">
+    <form style="text-align: center">
+      <fieldset>
         <label for="nombre">Nombre</label><br />
         <input type="text" id="nombre" required /><br /><br /><br />
 
@@ -40,9 +40,11 @@
           min="0"
           required
         /><br /><br />
-        <button onclick="calcularMedia()">Calcula la media</button>
-      </form>
-    </fieldset>
+        <button type="button" onclick="calcularMedia()">
+          Calcula la media
+        </button>
+      </fieldset>
+    </form>
 
     <p id="media"></p>
   </body>
