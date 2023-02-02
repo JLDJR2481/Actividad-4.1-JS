@@ -1,6 +1,6 @@
 function ordenarNombres() {
 
-    const nombres=[];
+    var nombres=[];
 
     var datos = document.getElementsByName("name[]");
 
