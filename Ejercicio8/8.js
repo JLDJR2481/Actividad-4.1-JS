@@ -12,7 +12,7 @@ function ordenarNombres() {
 
     var sort_nombres = nombres.sort();
 
-    for (var i = 0; i < sort_nombres.length -1; i++)  {
+    for (var i = 0; i < sort_nombres.length; i++)  {
 
         if (document.getElementById("first").innerHTML == ""){
 
